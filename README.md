@@ -6,6 +6,8 @@
 
 Simple tampermonkey script to filter cards on CP and get best options to buy
 
+# Work in progress!
+
 ## Installation
 
 1. Install [Tampermonkey](https://tampermonkey.net/)
